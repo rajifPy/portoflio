@@ -13,7 +13,7 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "About", href: "#about" },
   ],
   socialLinks: [
-    { text: "Twitter", href: "https://twitter.com/" },
+    { text: "Threads", href: "https://threads.com/" },
     { text: "LinkedIn", href: "https://www.linkedin.com/in/muhammadrajifalfarikhi/" },
     { text: "Github", href: "https://github.com/rajifPy" },
     { text: "Youtube", href: "https://www.youtube.com/" },
@@ -57,7 +57,9 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "Feb 2022",
       endDate: "Dec 2022",
       summary: [
-        "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
+        "Responsible for and managing the design of the organization’s social media accounts",
+        "Increased public attention to the organization as seen from an increase in the number of followers onsocial media by 50% social media by 50%.",
+        "Organized and coordinated staff in carrying out divisional responsibilitie",
       ],
     },
   ],
