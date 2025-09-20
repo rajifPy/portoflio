@@ -74,15 +74,15 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Dashboard Interactive EAI & ETL",
       summary: "Interactive dashboard with FLASK framework to implement Enterprise Application Integration and ETL with different dataset formats",
-      linkPreview: "https://web-production-8cc67.up.railway.app/",
-      linkSource: "https://github.com/rajifPy/DSBM2",
+      linkPreview: "/",
+      linkSource: "https://github.com/rajifPy/",
       image: "/Project2.png",
     },
     {
       name: "Dashboard Interactive Loading Unloading in Main Port Indonesia",
       summary: "Interactive dashboard with FLASK framework to implement loading and unloading processes in the main port of Indonesia",
-      linkPreview: "/",
-      linkSource: "https://github.com/rajifPy/",
+      linkPreview: "https://web-production-8cc67.up.railway.app/",
+      linkSource: "https://github.com/rajifPy/DSBM2",
       image: "/peroject4.png",
     },
     {
