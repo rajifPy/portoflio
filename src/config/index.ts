@@ -79,6 +79,13 @@ export const SITE_CONTENT: SiteContent = {
       image: "/Project2.png",
     },
     {
+      name: "Dashboard Interactive Loading Unloading in Main Port Indonesia",
+      summary: "Interactive dashboard with FLASK framework to implement loading and unloading processes in the main port of Indonesia",
+      linkPreview: "/",
+      linkSource: "https://github.com/rajifPy/",
+      image: "/Project2.png",
+    },
+    {
       name: "NLP Web App",
       summary: "A web application that utilizes Natural Language Processing (NLP) techniques to analyze text data, providing insights into sentiment and key themes",
       linkPreview: "https://sentimenanalisis.netlify.app/",
