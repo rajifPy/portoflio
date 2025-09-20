@@ -17,7 +17,7 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "LinkedIn", href: "https://www.linkedin.com/in/muhammadrajifalfarikhi/" },
     { text: "Github", href: "https://github.com/rajifPy" },
     { text: "Youtube", href: "https://www.youtube.com/" },
-    { text: "Kaggle", href: "https://www.kaggle.com/" },
+    { text: "LYNK", href: "https://lynk.id/cahkuno" },
   ],
   socialImage: "/zen-og.png",
   canonicalURL: "https://vercel.app",
