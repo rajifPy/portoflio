@@ -17,7 +17,7 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "LinkedIn", href: "https://www.linkedin.com/in/muhammadrajifalfarikhi/" },
     { text: "Github", href: "https://github.com/rajifPy" },
     { text: "Youtube", href: "https://www.youtube.com/" },
-    { text: "Dribbble", href: "https://dribbble.com/" },
+    { text: "Kaggle", href: "https://www.kaggle.com/" },
   ],
   socialImage: "/zen-og.png",
   canonicalURL: "https://vercel.app",
@@ -74,8 +74,8 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Dashboard Interactive EAI & ETL",
       summary: "Interactive dashboard with FLASK framework to implement Enterprise Application Integration and ETL with different dataset formats",
-      linkPreview: "/",
-      linkSource: "https://github.com/rajifPy/",
+      linkPreview: "https://web-production-8cc67.up.railway.app/",
+      linkSource: "https://github.com/rajifPy/DSBM2",
       image: "/Project2.png",
     },
     {
@@ -83,7 +83,7 @@ export const SITE_CONTENT: SiteContent = {
       summary: "Interactive dashboard with FLASK framework to implement loading and unloading processes in the main port of Indonesia",
       linkPreview: "/",
       linkSource: "https://github.com/rajifPy/",
-      image: "/Project2.png",
+      image: "/peroject4.png",
     },
     {
       name: "NLP Web App",
