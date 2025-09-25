@@ -65,6 +65,13 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
+      name: "Web Management boarding house",
+      summary: "Creating templates to simplify the management of boarding house or rental property businesses ",
+      linkPreview: "https://kostsaya.vercel.app/",
+      linkSource: "https://github.com/rajifPy/kost",
+      image: "/project5.png",
+    },
+    {
       name: "LoveRegex",
       summary: "A web application that helps users learn and practice regular expressions through interactive exercises and real-time feedback.",
       linkPreview: "https://loveregex.vercel.app/",
@@ -84,13 +91,6 @@ export const SITE_CONTENT: SiteContent = {
       linkPreview: "https://web-production-8cc67.up.railway.app/",
       linkSource: "https://github.com/rajifPy/DSBM2",
       image: "/peroject4.png",
-    },
-    {
-      name: "Web Management boarding house",
-      summary: "Creating templates to simplify the management of boarding house or rental property businesses ",
-      linkPreview: "https://kostsaya.vercel.app/",
-      linkSource: "https://github.com/rajifPy/kost",
-      image: "/project5.png",
     },
     {
       name: "NLP Web App",
