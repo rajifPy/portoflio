@@ -86,6 +86,13 @@ export const SITE_CONTENT: SiteContent = {
       image: "/peroject4.png",
     },
     {
+      name: "Web Management boarding house",
+      summary: "Creating templates to simplify the management of boarding house or rental property businesses ",
+      linkPreview: "https://kostsaya.vercel.app/",
+      linkSource: "https://github.com/rajifPy/kost",
+      image: "/project5.png",
+    },
+    {
       name: "NLP Web App",
       summary: "A web application that utilizes Natural Language Processing (NLP) techniques to analyze text data, providing insights into sentiment and key themes",
       linkPreview: "https://sentimenanalisis.netlify.app/",
