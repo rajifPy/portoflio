@@ -1,4 +1,16 @@
 ---
+/**
+ * Voltage Button Component
+ * 
+ * @description Animated button with electric voltage effect
+ * @author Pradeepsaranbishnoi
+ * @source https://uiverse.io
+ * @link Button by Pradeepsaranbishnoi made with CSS | Uiverse.io
+ * 
+ * @param {string} href - Optional link URL
+ * @param {string} text - Button text (default: "Button")
+ */
+
 interface Props {
   href?: string;
   text?: string;
@@ -7,7 +19,11 @@ interface Props {
 const { href, text = "Button" } = Astro.props;
 ---
 
-<!-- From Uiverse.io by Pradeepsaranbishnoi -->
+<!-- 
+  Voltage Button Component
+  From Uiverse.io by Pradeepsaranbishnoi
+  https://uiverse.io
+-->
 <div class="voltage-button">
   {href ? (
     <a href={href}>
