@@ -1,5 +1,7 @@
 ---
 import type { HeroProps } from "@types";
+import VoltageButton from "./VoltageButton.astro";
+
 type Props = HeroProps;
 
 const { name, specialty, summary, email } = Astro.props;
@@ -20,8 +22,5 @@ const { name, specialty, summary, email } = Astro.props;
     {summary}
   </p>
 
-  <a
-    class="inline-block rounded-full bg-primary px-8 py-5 text-sm leading-5 font-medium text-[#fff]"
-    href={`mailto:${email}`}>Get in Touch</a
-  >
+  <VoltageButton href={`mailto:${email}`} text="Get in Touch" />
 </section>
